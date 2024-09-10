@@ -1,0 +1,14 @@
+header{
+    background-color: black;border-bottom: 2px solid black;
+}
+header #hi{
+    float: left;
+    
+}
+header h1{
+    text-shadow: 5px 2px orange;
+    color: black;
+    margin-left: 10px;
+    padding-top: 10px;
+    font-family:'Times New Roman', Times, serif;
+}
